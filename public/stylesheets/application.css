@@ -1,0 +1,14 @@
+body {
+  background-color:yellowgreen;
+}
+
+p {
+  background-color: olive;
+  border: 2px solid grey;
+  font-size: 10px;
+  padding: 10px;
+}
+
+.username {
+  background-color: rgb(148, 61, 76);
+}
